@@ -18,4 +18,4 @@
 17. URL Shorter
 18. Rock, Paper, Scissors
 19. Alarm Clock
-20. Gues the word Game
+20. Guess the word Game
