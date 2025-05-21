@@ -7,6 +7,7 @@
 # The user is informed if their guess is too low or too high.
 # The game keeps track of the number of attempts made by the user.
 # The game ends when the user guesses the correct number, and the total number of attempts is displayed.
+
 import random
 
 def number_guessing_game():
